@@ -33,4 +33,7 @@ ASCII Art: Add visual drawings of the "Hangman" stick figure that build up with 
 Replay Feature: Add a "Play Again?" loop so the user doesn't have to restart the program manually.
 Author: [Jainam Jain]
 Reg No [25BAI11474]
-
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/ee9a1163-9320-4469-86b4-fc0cb0d1a454" />
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/4dc7f7af-5b6c-4a32-8914-9361a68545a4" />
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/0b3415af-c2fa-4ec7-8a83-8780d4ccadd9" />
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/c179a6b2-320e-421a-b433-43fd889bebb7" />
